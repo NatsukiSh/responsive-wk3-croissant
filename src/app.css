@@ -1,0 +1,15 @@
+:root {
+  --primary-color: antiquewhite;
+  --text-align: center;
+  --font-family: "Handlee", cursive;
+  --text-color: green;
+}
+
+body {
+  background: var(--primary-color);
+  text-align: var(--text-align);
+}
+
+h1 {
+  font-family: var(--font-family);
+}
