@@ -14,10 +14,18 @@ h1 {
   font-family: var(--font-family);
 }
 
+img {
+  margin-bottom: 20px;
+}
+
 a {
   color: var(--text-color);
 }
 
 .contact-email {
   color: blue;
+}
+
+footer a {
+  margin: 20px;
 }
